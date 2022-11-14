@@ -1,1 +1,2 @@
-worker : node build.js
+worker : npm start
+web : npm start
