@@ -1,0 +1,34 @@
+{
+  "name": "animation-bot",
+  "version": "1.0.0",
+  "description": "This is animation bot,and that's for people who isnot using premium telegramm",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon  build.js",
+    "dev": "node  build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khurshid28/animation_words_bot.git"
+  },
+  "keywords": [
+    "[animation",
+    "stiker",
+    "stiker",
+    "animation]"
+  ],
+  "author": "Javohir Ismoilov and Khurshid Ismoilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khurshid28/animation_words_bot/issues"
+  },
+  "homepage": "https://github.com/khurshid28/animation_words_bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.60.0"
+  }
+}
