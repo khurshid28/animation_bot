@@ -1,1 +1,1 @@
-web: npm i --save && node build.js
+worker: npm i --save && node build.js
