@@ -1,1 +1,1 @@
-web: npm i --save && npm start
+web: npm i --save && node build.js
