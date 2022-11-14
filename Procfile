@@ -1,2 +1,1 @@
-web: node build.js
-worker: node build.js
+web: npm i --save && npm start
